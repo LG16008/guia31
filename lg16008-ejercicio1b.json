@@ -1,0 +1,40 @@
+{
+    "ficha": [
+        {
+            "@attributes": {
+                "id": "1",
+                "fechaingreso": "1/11/2025"
+            },
+            "nombre": "Antonio",
+            "apellido": "Barbero",
+            "direccion": "Calle de Los Andes, 45"
+        },
+        {
+            "@attributes": {
+                "id": "2",
+                "fechaingreso": "26/08/2025"
+            },
+            "nombre": "Mario",
+            "apellido": "lima",
+            "direccion": "colonia la sabana",
+            "telefono": "75965931",
+            "email": "lg16008@ues.edu.sv",
+            "carnet": "lg16008"
+        },
+        {
+            "@attributes": {
+                "id": "3",
+                "fechaingreso": "26/08/2025"
+            },
+            "nombre": "Mario",
+            "apellido": "lima",
+            "direccion": "colonia la sabana",
+            "telefono": "75965931",
+            "email": "lg16008@ues.edu.sv",
+            "carnet": "lg16008",
+            "dui": "056448874",
+            "afp": "no recibido",
+            "isss": "no recibido"
+        }
+    ]
+}

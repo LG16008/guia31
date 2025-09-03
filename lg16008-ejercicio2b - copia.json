@@ -1,0 +1,37 @@
+{
+    "@attributes": {
+        "nombre": "El Salvador"
+    },
+    "departamento": [
+        {
+            "@attributes": {
+                "id": "d1",
+                "nombre": "San Salvador"
+            },
+            "cabecera": "San Salvador",
+            "habitantes": "1,700,000",
+            "altura": "545 MSNM"
+        },
+        {
+            "@attributes": {
+                "id": "d2",
+                "nombre": "La Libertad"
+            },
+            "cabecera": "Santa teclar",
+            "habitantes": "1,700,000",
+            "altura": "545 MSNM"
+        },
+        {
+            "@attributes": {
+                "id": "d3",
+                "nombre": "Sonsonate"
+            },
+            "cabecera": "Sonsonate",
+            "habitantes": "1,700,000",
+            "altura": "545 MSNM"
+        }
+    ],
+    "moneda": "colon y dolar",
+    "codigodearea": "+503",
+    "idioma": "oficinal: español, segundo idioma: nahuat"
+}

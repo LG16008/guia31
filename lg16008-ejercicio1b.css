@@ -1,0 +1,27 @@
+/* lg16008-ejercicio1a.css   lg16008  */
+fichero{background-color:blue;}
+#f1 {background-color:yellow; display:block;} 
+#f1 nombre {color:white; display:inline;} 
+#f1 apellido {color:red; display:inline;}
+#f1 direccion {color:green;font-size:1cm; display:none;
+margin-bottom: 10px;
+}
+
+#f2 {background-color:pink; display:block;} 
+#f2 nombre {color:white; display:inline;} 
+#f2 apellido {color:blue; display:inline;}
+#f2 direccion {color:yellow;font-size:1cm; display:none;}
+#f2 telefono {color:black; display: inline} 
+#f2 email {color:blue; display: inline}
+#f2 carnet {color:red; display: inline; margin-bottom: 10px}
+
+#f3 {background-color:orange; display:block;} 
+#f3 nombre {color:white; display:inline;} 
+#f3 apellido {color:blue; display:inline;}
+#f3 direccion {color:yellow;font-size:1cm; display:none;}
+#f3 telefono {color:black; display: inline} 
+#f3 email {color:blue; display: inline}
+#f3 carnet {color:red; display: inline; margin-bottom: 10px}
+#f3 dui{color: white; display: inline}
+#f3 afp{color: blue; display: inline}
+#f3 isss{color: pink; display: inline}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="lg16008-ejercicio2b.css"?>
+<pais nombre="El Salvador">
+<departamento id="d1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="d2" nombre="La Libertad">
+<cabecera>Santa teclar</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="d3" nombre="Sonsonate">
+<cabecera>Sonsonate</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<moneda>colon y dolar</moneda>
+<codigodearea>+503</codigodearea>
+<idioma>oficinal: español, segundo idioma: nahuat</idioma>
+</pais>

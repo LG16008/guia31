@@ -1,0 +1,9 @@
+/* lg16008-ejercicio1a.css   lg16008  */
+pais{background-color:blue;}
+#d1 {background-color:yellow; display:block;} 
+#d1 cabecera {color:white; display:inline;} 
+#d1 habitantes {color:red; display:inline;}
+#d1 altura {color:green; display:inline;
+margin-bottom: 10px;
+}
+
